@@ -1,0 +1,11 @@
+{
+  "name": "react-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "sh push.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
